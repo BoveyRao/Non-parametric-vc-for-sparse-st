@@ -1,1 +1,2 @@
-# Non-parametric-vignetting-correction-for-sparse-spatial-transcriptomics-images
+# Non parametric vignetting correction for sparse spatial transcriptomics images
+
